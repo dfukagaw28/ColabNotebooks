@@ -13,6 +13,7 @@
 | W05 | [木をたどる：走査・高さ・ヒープ](W05-tree.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dfukagaw28/ColabNotebooks/blob/main/algds/W05-tree.ipynb) |
 | W06 | [半分ずつ捨てると，どれだけ速いか](W06-binary-search.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dfukagaw28/ColabNotebooks/blob/main/algds/W06-binary-search.ipynb) |
 | W07 | [木とハッシュ：形と散らばりを見る](W07-bst-hash.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dfukagaw28/ColabNotebooks/blob/main/algds/W07-bst-hash.ipynb) |
+| W09 | [$O(n^2)$ と $O(n \log n)$ の差を測る](W09-sorting.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dfukagaw28/ColabNotebooks/blob/main/algds/W09-sorting.ipynb) |
 
 数値は計算機によって変わります。載っている値ではなく，
 自分の環境で出た値を見てください。
